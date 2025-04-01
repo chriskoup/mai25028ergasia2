@@ -1,0 +1,108 @@
+{
+    "PublicService": {
+        "name": "Inclusion in the Register of Curators of the Neighborhood Nannies Action",
+        "evidence": [
+            {
+                "id": 1,
+                "evs": [
+                    {
+                        "id": "ev0001",
+                        "type": "Evidence",
+                        "name": "Police ID card",
+                        "description": "For non-Schengen citizens of a third country. Alternatively, it can be a simple passport"
+                    },
+                    {
+                        "id": "ev0009",
+                        "type": "Evidence",
+                        "name": "Residence permit with access to the labor market",
+                        "description": "For non-Schengen citizens of a third country. Alternatively, it may be Single-Type Residence Permit Details, Special Identity Card Details for an Expatriate, Residence Certificate Details, Registration Certificate Details or Request for Residence Permit Renewal Submission"
+                    },
+                    {
+                        "id": "ev0010",
+                        "type": "Evidence",
+                        "name": "Copy of secondary education, higher education or other equivalent foreign qualification",
+                        "description": "Alternatively, it can be a copy of the compulsory education diploma and a certificate of successful completion of the asynchronous training program for Curators, a copy of the diploma of the Higher School of Nursery Nurses of the MITERA Infant Center or of PIKPA of Ioannina or Corresponding equivalence of a degree from DOATAP or DIKATSA, in case of obtaining a degree abroad"
+                    },
+                    {
+                        "id": "ev0011",
+                        "type": "Evidence",
+                        "name": "Recognized certificate of Greek language proficiency level B1",
+                        "description": "It concerns foreign candidates who are not graduates of secondary, post-secondary or tertiary education in Greece."
+                    },
+                    {
+                        "id": "ev0013",
+                        "type": "Evidence",
+                        "name": "First aid certificate for infants and children",
+                        "description": "First aid certificate for infants and children"
+                    },
+                    {
+                        "id": "ev0002",
+                        "type": "Evidence",
+                        "name": "Psychiatrist's certificate/opinion",
+                        "description": "Έκδοση εντός τελευταίου τριμήνου"
+                    },
+                    {
+                        "id": "ev0004",
+                        "type": "Evidence",
+                        "name": "Dermatologist certificate/opinion",
+                        "description": "Issued within the last quarter"
+                    },
+                    {
+                        "id": "ev0003",
+                        "type": "Evidence",
+                        "name": "Certificate/opinion from a Pathologist or General Practitioner",
+                        "description": "Issued within the last quarter"
+                    },
+                    {
+                        "id": "ev0005",
+                        "type": "Evidence",
+                        "name": "Solemn declaration of article 2, par. 2.3, point viii of the Invitation",
+                        "description": "You must not have lost parental responsibility, or have lost the right to exercise it (if you are a parent), not be under judicial support, not have been convicted of a felony or misdemeanor, and must declare any change in the information registered in the Guardians' Registry."
+                    },
+                    {
+                        "id": "ev0006",
+                        "type": "Evidence",
+                        "name": "Affidavit recording the number of adult cohabitants in the residence and their relationship with the Curator",
+                        "description": "Only in the event that the Curator provides the services in his/her home"
+                    },
+                    {
+                        "id": "ev0007",
+                        "type": "Evidence",
+                        "name": "Copy of general criminal record",
+                        "description": "It must be in force."
+                    }
+                ]
+            }
+        ],
+        "criterion_requirements": [
+            {
+                "id": "cr0001",
+                "name": "18 years or older."
+            },
+            {
+                "id": "cr0002",
+                "name": "Holder of a university, technical institute, vocational training institute degree or a graduate of Vocational Education or a post-secondary year of Apprenticeship in a relevant specialty or a graduate of compulsory education."
+            },
+            {
+                "id": "cr0003",
+                "name": "Good mental and physical health as well as the absence of a contagious skin disease, proven by a certificate/opinion from a Psychiatrist, Pathologist, Dermatologist or general practitioner within the last three months."
+            },
+            {
+                "id": "cr0004",
+                "name": "Clean criminal record."
+            },
+            {
+                "id": "cr0005",
+                "name": "Personal TaxisNet codes."
+            },
+            {
+                "id": "cr0006",
+                "name": "Permanently and legally residing in Greece."
+            },
+            {
+                "id": "cr0007",
+                "name": "Knowledge of providing first aid to children and ability to understand and speak the Greek language at language proficiency level B1."
+            }
+        ]
+    }
+}
